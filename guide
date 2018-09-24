@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
+  </channel>
+  <channel id="GLOBO HD SP">
+    <display-name lang="pt">GLOBO HD SP</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="REDE RECORD">
+    <display-name lang="pt">REDE RECORD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BAND">
+    <display-name lang="pt">BAND</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20180924000000 +0100" stop="20180924235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180924001500 -0300" stop="20180924011500 -0300" channel="BAND">
+    <title lang="pt">Canal Livre</title>
+    <desc lang="pt">Entrevistas com personalidades nacionais e internacionais, chefes de estado, lideranças da política e expoentes das áreas econômica, empresarial, cultural, esportiva e científica. Um momento para análise e reflexão(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924011500 -0300" stop="20180924020000 -0300" channel="BAND">
+    <title lang="pt">Show Business</title>
+    <desc lang="pt">Entrevistas com personalidades do mundo empresarial, politico e cultural. Com foco principal na economia, nos negócios e na administração pública(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924020000 -0300" stop="20180924023000 -0300" channel="BAND">
+    <title lang="pt">30 Minutos</title>
+    <desc lang="pt">As reportagens especiais e seriadas, exibidas no jornais da Band, em uma única edição(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924023000 -0300" stop="20180924024500 -0300" channel="BAND">
+    <title lang="pt">Band Mania</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924024500 -0300" stop="20180924030000 -0300" channel="BAND">
+    <title lang="pt">Vídeos Incríveis</title>
+    <desc lang="pt">As melhores pegadinhas da tv, no formato clássico de câmeras escondidas, brincando com as pessoas que passam nas ruas, praças e centros comerciais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924030000 -0300" stop="20180924060000 -0300" channel="BAND">
+    <title lang="pt">Igreja Universal</title>
+    <desc lang="pt">Informações aos fieis(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924060000 -0300" stop="20180924070000 -0300" channel="BAND">
+    <title lang="pt">Jornal Bandnews</title>
+    <desc lang="pt">As principais noticias da hora com a equipe do canal especializado em jornalismo, 24 horas por dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924070000 -0300" stop="20180924080000 -0300" channel="BAND">
+    <title lang="pt">Café com Jornal</title>
+    <desc lang="pt">Muita prestação de serviço e a participação do público, interagindo com a equipe do noticioso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924080000 -0300" stop="20180924083000 -0300" channel="BAND">
+    <title lang="pt">Café com Jornal - Edição Brasil</title>
+    <desc lang="pt">Muita prestação de serviço e a participação do público, interagindo com a equipe do noticioso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924083000 -0300" stop="20180924085000 -0300" channel="BAND">
+    <title lang="pt">Sempre Bem</title>
+    <desc lang="pt">Informações sobre saúde, bem-estar, beleza e comportamento(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924085000 -0300" stop="20180924095000 -0300" channel="BAND">
+    <title lang="pt">Cozinha do Bork</title>
+    <desc lang="pt">O tradicional programa culinário das manhãs em novo ciclo: renovado, atualizado e repleto de novas receitas. Todas testadas e aprovadas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924095000 -0300" stop="20180924110000 -0300" channel="BAND">
+    <title lang="pt">Superpoderosas</title>
+    <desc lang="pt">Um programa que conecta TV e Internet com soluções para simplificar a vida das mulheres, ensinando a encarar os desafios do dia a dia. Estimulando o autoconhecimento, autoestima e mentalidade empreendedora(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924110000 -0300" stop="20180924123000 -0300" channel="BAND">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">As principais notícias do futebol e um debate diário com jornalistas e esportistas sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924123000 -0300" stop="20180924130000 -0300" channel="BAND">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924130000 -0300" stop="20180924132500 -0300" channel="BAND">
+    <title lang="pt">Horário Eleitoral</title>
+    <desc lang="pt">Horário reservado para a transmissão da propaganda política partidária(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924132500 -0300" stop="20180924141500 -0300" channel="BAND">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">O craque Neto comanda o programa mais bem-humorado sobre o mundo do futebol. Ele e seus convidados tem uma meta: descobrir quem é o do dono da bola(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924141500 -0300" stop="20180924151500 -0300" channel="BAND">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <desc lang="pt">Bem-estar, culinária, notícias de famosos, astrologia, dicas de limpeza, organização de casa e faça você mesmo. Sem rotina, todo dia uma tarde diferente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924151500 -0300" stop="20180924161500 -0300" channel="BAND">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <desc lang="pt">Bem-estar, culinária, notícias de famosos, astrologia, dicas de limpeza, organização de casa e faça você mesmo. Sem rotina, todo dia uma tarde diferente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924161500 -0300" stop="20180924185000 -0300" channel="BAND">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com prioridade para os temas do cotidiano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924185000 -0300" stop="20180924192000 -0300" channel="BAND">
+    <title lang="pt">Brasil Urgente SP</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924192000 -0300" stop="20180924203000 -0300" channel="BAND">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos no Brasil e no Mundo relatados com imparcialidade e profundidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924203000 -0300" stop="20180924205500 -0300" channel="BAND">
+    <title lang="pt">Horário Eleitoral</title>
+    <desc lang="pt">Horário reservado para a transmissão da propaganda política partidária(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924205500 -0300" stop="20180924214000 -0300" channel="BAND">
+    <title lang="pt">Asas do Amor</title>
+    <desc lang="pt">Onur entrega para Berna um envelope com fotos de Alper e Leyla juntos, mas ela pede para ele se afastar e não quer ele se intrometendo em sua família. Canan pensa sozinha e não acredita que a própria filha está em sua casa(n)</desc>
+    <episode-num system="onscreen">E60</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180924214000 -0300" stop="20180924223200 -0300" channel="BAND">
+    <title lang="pt">Igreja da Graça</title>
+    <desc lang="pt">Programa Religioso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924223200 -0300" stop="20180924224000 -0300" channel="BAND">
+    <title lang="pt">Agenda dos Pastores</title>
+    <desc lang="pt">Programa Religioso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924224000 -0300" stop="20180924224500 -0300" channel="BAND">
+    <title lang="pt">Vídeonews</title>
+    <desc lang="pt">Revista diária com as notícias mais comentadas na cena cultural e artística, os principais assuntos das redes sociais, os bastidores da Band, curiosidades e vídeos da internet. Informação com descontração(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924224500 -0300" stop="20180924235000 -0300" channel="BAND">
+    <title lang="pt">Planeta Selvagem</title>
+    <desc lang="pt">A produção da BBC faz um retrato das paisagens mais perigosas do nosso mundo, mostrando viagens extraordinárias pelas regiões mais selvagens do nosso planeta(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924235000 -0300" stop="20180925000000 -0300" channel="BAND">
+    <title lang="pt">Viagens ao Redor do Mundo</title>
+    <desc lang="pt">Unindo informação e entretenimento, o programa leva os telespectadores para os lugares mais incríveis do planeta de maneira descontraída, com dicas hospedagens, passeios e gastronomia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+</tv>
