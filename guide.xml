@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
+  </channel>
   <channel id="GLOBO HD SP">
     <display-name lang="pt">GLOBO HD SP</display-name>
     <url>http://www.clarotv.com.br</url>
@@ -12,6 +16,10 @@
     <display-name lang="pt">BAND</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
+  <programme start="20180924000000 +0100" stop="20180924235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
   <programme start="20180924001500 -0300" stop="20180924011500 -0300" channel="BAND">
     <title lang="pt">Canal Livre</title>
     <desc lang="pt">Entrevistas com personalidades nacionais e internacionais, chefes de estado, lideranças da política e expoentes das áreas econômica, empresarial, cultural, esportiva e científica. Um momento para análise e reflexão(n)</desc>
